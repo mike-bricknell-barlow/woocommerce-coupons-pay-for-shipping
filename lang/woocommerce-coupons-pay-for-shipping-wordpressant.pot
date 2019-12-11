@@ -1,0 +1,13 @@
+# Copyright (C) 2014 Woocommerce Coupons Pay for Shipping WordpressAnt
+# This file is distributed under the same license as the Woocommerce Coupons Pay for Shipping WordpressAnt package.
+
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "Woocommerce Coupons Pay for Shipping WordpressAnt"
+msgstr ""
+
+
+#. Author of the plugin/theme
+msgid "Azharul Haque"
+msgstr ""
